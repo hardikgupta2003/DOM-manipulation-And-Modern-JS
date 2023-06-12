@@ -6,3 +6,4 @@ for(let i=1;i<=100;i++){
     fragment.appendChild(newElement);
 }
 document.body.appendChild(fragment)
+// one single reflow and one repaint
